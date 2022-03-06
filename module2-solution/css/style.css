@@ -17,11 +17,12 @@ h1 {
   font-variant: small-caps;
 }
 
-div {
+div.box {
   border: 1px solid black;
   background-color: #D7BAC0;
   width: 90%;
   height: 150px;
+  margin: 10px;
   padding: 55px;
   font-family: Helvetica, sans-serif;
   font-weight: 900;
