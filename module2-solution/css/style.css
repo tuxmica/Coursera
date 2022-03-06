@@ -2,12 +2,6 @@
   box-sizing: border-box;
 }
 
-/*
-.row {
-  width: 100%;
-}
-*/
-
 h1 {
   margin-bottom: 25px;
   text-align: center;
@@ -15,6 +9,7 @@ h1 {
   color: #8333FF;
   font-weight: bold;
   font-variant: small-caps;
+
 }
 
 div.box {
@@ -32,7 +27,6 @@ div.box {
 }
 
 
-
 #p1, #p2, #p3 {
   position: absolute;
   width: 30%;
@@ -40,7 +34,7 @@ div.box {
   top:  0%;
   right: 0%;
   height: 40px;
-  text-align: right;
+  text-align: center;
   padding: 10px;
 }
 
