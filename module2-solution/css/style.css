@@ -36,24 +36,28 @@ div.box {
   height: 40px;
   text-align: center;
   padding: 10px;
+
 }
 
 #p1{
   background-color: #A4E4A8;
   color: darkblue;
   font-weight: 800;
+  border: 1px solid black;
 }
 
 #p2{
   background-color: #D9EF00;
   color: royalblue;
   font-weight: 800;
+  border: 1px solid black;
 }
 
 #p3{
   background-color: #F08C52;
   color: white;
   font-weight: 800;
+  border: 1px solid black;
 }
 
 
